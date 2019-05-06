@@ -1855,7 +1855,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1311a3;
+  background: #d45e39;
 }
 .feed-link,
 .chat {
@@ -3019,9 +3019,6 @@ img.img-topic {
 .feed-link a i {
   color: #fff;
 }
-.links-of-author {
-  margin-top: 0px;
-}
 .links-of-blogroll-title {
   margin-bottom: 10px;
   margin-top: 15px;
@@ -3149,4 +3146,5 @@ img.img-topic {
 .logo-icon {
   vertical-align: middle;
   padding: 10px 0;
+  color: #ff5722;
 }

@@ -1855,7 +1855,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d45e39;
+  background: #ffffcd;
 }
 .feed-link,
 .chat {
@@ -3144,7 +3144,7 @@ img.img-topic {
   }
 }
 .logo-icon {
-  vertical-align: middle;
-  padding: 10px 0;
+  transition: all 0.4s;
+  font-size: 50px;
   color: #ff5722;
 }

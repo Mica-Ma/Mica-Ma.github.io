@@ -1,1 +1,1 @@
-{"name":"fastclick","main":"lib/fastclick.js","ignore":["**/.*","component.json","package.json","Makefile","tests","examples"]}
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">{"name":"fastclick","main":"lib/fastclick.js","ignore":["**/.*","component.json","package.json","Makefile","tests","examples"]}

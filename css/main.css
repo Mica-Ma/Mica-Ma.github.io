@@ -1855,7 +1855,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a8c471;
+  background: #f981ff;
 }
 .feed-link,
 .chat {
@@ -3364,4 +3364,12 @@ span#inline-toc {
   padding: 0.05em 0.4em;
   margin: 2px 5px 2px 0px;
   line-height: 1.5;
+}
+blockquote.question {
+  color: #555;
+  border-left: 4px solid #1098ad;
+  background-color: #e3f2fd;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  margin-bottom: 20px;
 }
